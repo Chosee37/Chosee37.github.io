@@ -154,9 +154,7 @@ function PlasmicHomepage__RenderFunc(props) {
                         sty.text__iZfSd
                       )}
                     >
-                      {
-                        "Orci dui condimentum rutrum laoreet hac purus porta sem sem a vivamus a posuere vel molestie."
-                      }
+                      {"Pokusný text."}
                     </div>
                   </p.Stack>
 
